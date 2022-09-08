@@ -1,0 +1,97 @@
+{
+  "app_bar": "احجز",
+  "Home":"الصفحة الرئيسية",
+  "Profile":"الملف الشخصي",
+  "Settings": "الإعدادات",
+  "FeedBack":"ردود الفعل",
+  "Privacy": "الخصوصية",
+  "Name": "الاسم",
+  "Phone": "رقم الهاتف",
+  "Email": "البريد الالكتروني",
+  "Signout": "تسجيل الخروج",
+  "Change Theme": "تغيير التصميم",
+  "Language": "اللغة",
+  "Themes":"التصميم",
+  "Dark Theme": "مظهر داكن",
+  "Choose Your Language": "اختر لغتك",
+  "Change Password" : "تغيير كلمة السر",
+
+
+  "Enter your Full Name" : "ادخل اسمك الكامل",
+  "Full Name": "اسمك الكامل",
+  "Enter your Email": "ادخل بريدك الالكتروني",
+  "Email Address": "البريد الالكتروني",
+  "Enter your Password": "ادخل كلمة السر",
+  "Password": "كلمة السر",
+  "ConfirmPassword": "تاكيد كلمة السر",
+  "passwords do not match": "كلمة السر غير متتابقة",
+  "Enter your Phone Number": "ادخل رقم الهاتف",
+  "PhoneNumber": "رقم الهاتف",
+  "Already have an account?": "هل لديك حساب؟",
+  "login": "تسجيل الدخول",
+  "Signup": "تسجيل",
+  "Phone Number is Already Registered!": "رقم الهاتف مسجل من قبل!",
+  "Email address is Already Registered!": "البريد الالكتروني مسجل من قبل!",
+  "This phone got banned due to multiple requests please try again later!": "هذا الهاتف تم حظره لتقديمه عدة مرات، الرجاء معاودة ,المحاولة في وقت لاحق ",
+  "No internet connection": "لا يوجد اتصال بالإنترنت",
+
+
+  "Forgot Password?": "هل نسيت كلمة المرور؟",
+  "Dont have an account?": "ليس لديك حساب؟",
+  "Create one": "اصنع واحدا",
+  "Login": "تسجيل الدخول",
+  "Wrong email or password!": "خطأ في البريد الإلكتروني أو كلمة المرور!",
+  "Continue with social media": "المتابعة بوسائل التواصل الاجتماعي",
+  "Something wrong happened!": "حدث شيء خطأ!",
+  "Facebook": "فيس بوك",
+  "Gmail": "بريد جوجل",
+
+
+  "Find a place to reserve": "ابحث عن مكان للحجز",
+  "Cafe": "مقهى",
+  "Restaurant": "مطعم",
+
+
+  "password is required": "كلمة المرور مطلوبة",
+  "Reset": "تعديل",
+  "You are trying to change to same Password": "أنت تحاول تغييرنفس كلمة السر",
+  "Try another Password": "جرب كلمة مرور أخرى",
+
+
+  "Change Name":"تغيير الاسم",
+  "Enter Your new Name":"ادخل اسمك الجديد:",
+  "Enter new Name": "ادخل اسم جديد",
+  "Name already Registered": "الاسم مسجل بالفعل",
+  "Try another Name": "برجاء ادخال اسما آخر",
+  "Name changed": "لقد تغير الاسم",
+  "Process done successfully": "تمت العملية بنجاح",
+
+
+  "Change E-mail": "تغيير البريد الالكتروني",
+  "Enter Your new Email": "ادخل بريدك الالكتروني الجديد:",
+  "Enter new Email": "ادخل بريد الكتروني جديد",
+  "Try another Email": "برجاء ادخال بريد إلكتروني آخر",
+  "Email changed": "لقد تغير البريد الإلكتروني",
+  "Change Email": "تغيير البريد الالكتروني",
+
+
+  "Confirm": "تاكيد",
+
+
+  "Available": "متاح",
+  "Not Available": "غير متاح",
+  "Menu": "منيو",
+  "E7gz": "الحجز",
+
+
+  "Reviews": "ملاحظات",
+  "Orders": "الطلبات",
+  "Products": "Products",
+
+
+  "Apply Promo Code": "تطبيق البرومو كود",
+  "Date": "تاريخ",
+  "Time": "الوقت",
+  "Total": "مجموع",
+  "Number of seats": "عدد المقاعد"
+}

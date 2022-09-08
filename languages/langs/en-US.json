@@ -1,0 +1,96 @@
+{
+  "app_bar": "e7gz",
+  "Home": "Home",
+  "Profile":"Profile",
+  "Settings": "Settings",
+  "FeedBack":"FeedBack",
+  "Privacy": "Privacy",
+  "Name": "Name",
+  "Phone": "Phone",
+  "Email": "Email",
+  "Signout": "Signout",
+  "Change Theme": "Theme",
+  "Language": "Language",
+  "Themes": "Themes",
+  "Dark Theme": "Dark Theme",
+  "Choose Your Language": "Choose Your Language",
+  "Change Password" : "Change Password",
+
+
+  "Enter your Full Name": "Enter your Full Name",
+  "Full Name": "Full Name",
+  "Enter your Email": "Enter your Email",
+  "Email Address": "Email Address",
+  "Enter your Password": "Enter your Password",
+  "Password": "Password",
+  "ConfirmPassword": "ConfirmPassword",
+  "passwords do not match": "passwords do not match",
+  "Enter your Phone Number": "Enter your Phone Number",
+  "PhoneNumber": "PhoneNumber",
+  "Already have an account?": "Already have an account?",
+  "login": "login",
+  "Signup": "Signup",
+  "Phone Number is Already Registered!": "Phone Number is Already Registered!",
+  "Email address is Already Registered!":"Email address is Already Registered!",
+  "This phone got banned due to multiple requests please try again later!": "This phone got banned due to multiple requests please try again later!",
+  "No internet connection": "No internet connection",
+
+
+  "Forgot Password?": "Forgot Password?",
+  "Dont have an account?":"Don't have an account?",
+  "Create one": "Create one",
+  "Login": "Login",
+  "Wrong email or password!": "Wrong email or password!",
+  "Continue with social media": "Continue with social media",
+  "Something wrong happened!": "Something wrong happened!",
+  "Facebook": "Facebook",
+  "Gmail": "Gmail",
+
+  "Find a place to reserve": "Find a place to reserve",
+  "Cafe": "Cafe",
+  "Restaurant": "Restaurant",
+
+
+  "password is required": "password is required",
+  "Reset": "Reset",
+  "You are trying to change to same Password": "You are trying to change to same Password",
+  "Try another Password": "Try another Password",
+
+
+  "Change Name": "Change Name",
+  "Enter Your new Name":"Enter Your new Name:",
+  "Enter new Name": "Enter new Name",
+  "Name already Registered": "Name already Registered",
+  "Try another Name":"Try another Name",
+  "Name changed": "Name changed",
+  "Process done successfully": "Process done successfully",
+
+
+  "Change E-mail": "Change E-mail",
+  "Enter Your new Email": "Enter Your new Email:",
+  "Enter new Email": "Enter new Email",
+  "Try another Email": "Try another Email",
+  "Email changed": "Email changed",
+  "Change Email": "Change Email",
+
+
+  "Confirm": "Confirm",
+
+
+  "Available": "Available",
+  "Not Available": "Not Available",
+  "Menu": "Menu",
+  "E7gz": "E7gz",
+
+
+  "Reviews": "Reviews",
+  "Orders": "Orders",
+  "Products": "Products",
+
+
+  "Apply Promo Code": "Apply Promo Code",
+  "Date": "Date",
+  "Time": "Time",
+  "Total": "Total",
+  "Number of seats": "Number of seats"
+}

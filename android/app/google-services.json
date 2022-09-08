@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982481765518",
+    "firebase_url": "https://e7gz-393ba.firebaseio.com",
+    "project_id": "e7gz-393ba",
+    "storage_bucket": "e7gz-393ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982481765518:android:712d53bb57dc73bb8275df",
+        "android_client_info": {
+          "package_name": "com.halfawy.e7gz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982481765518-rpjdm4084pdb65iu2olgnohkocme8tf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFyJFcATpTKUer8qTJH5XDOyvoTaTGH7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982481765518-rpjdm4084pdb65iu2olgnohkocme8tf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
